@@ -10,7 +10,7 @@ on:
 jobs:
   test:
     name: Test and lint
-    uses: Solahuddeen/La6_6510110625/.github/workflows/development.yml@main
+    uses: Solahuddeen/Lab6_6510110625/.github/workflows/development.yml@main
 
   docker:
     name: Build container
