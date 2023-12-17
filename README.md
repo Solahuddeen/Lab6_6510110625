@@ -1,4 +1,4 @@
-_This repo is archived. If you are looking for the latest, check out [open-sauced/insights](https://github.com/open-sauced/insights) or [open-sauced/hot](https://github.com/open-sauced/hot)._
+Solahuddeen Kamae 6510110625 Sec2
 
 <div align="center">
   <br>
